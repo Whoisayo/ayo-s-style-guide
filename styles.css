@@ -64,6 +64,10 @@ p {
     text-align: center;
 }
 
+p {
+    margin: 0 auto;
+}
+
 nav {
     font-family: sans-serif;
     color: #871711;
@@ -160,9 +164,17 @@ a:hover{
 
 .font-panel {
     display: inline-block;
+    width: 40%;
+    padding: 30px;
 }
 
+.merienda {
+    font-family: merienda;
+}
 
+.alexbrush {
+    font-family: caladea;
+}
 #bold {
     font-weight: bold;
 }
